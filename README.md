@@ -3,7 +3,7 @@
 This repository contains code for the NTU Astronomy Club 114-1-Workshop, lesson 2 activity.
 
 - run.py: Main running script
-- Image files: Requires obtaining from your club account
+- Image files: Requires obtaining from club account
 
 ## run.py Instructions
 
